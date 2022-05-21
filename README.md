@@ -1,4 +1,4 @@
-# Lawer_Landing_page
+# Lawyer_Landing_page
 HTML and CSS 
 
 Assignment Project
