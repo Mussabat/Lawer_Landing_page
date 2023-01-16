@@ -13,7 +13,6 @@ View : https://moonlit-boba-cfc553.netlify.app/
 <img src = "https://user-images.githubusercontent.com/84468462/212698490-7c096839-0f4d-419f-8732-5a5ab5ee422f.png"/>
 <hr>
 <img src = "Screenshot (1174)](https://user-images.githubusercontent.com/84468462/212698625-68f3d146-4454-4c9c-bf9c-36667785c198.png"/>
-<hr>
 <img src = "https://user-images.githubusercontent.com/84468462/212698735-1337ee34-6796-4e9a-b9ba-f591ed1c10b5.png"/>
 
 
